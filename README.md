@@ -1,2 +1,5 @@
 # FirstRepo
-Opening salvo
+
+==============================================================================
+
+Opening salvo. My first repo following the tutorial.
